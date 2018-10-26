@@ -21,6 +21,30 @@ html,body,div{
     min-height: 800px;
 }
 
+.wrapper-header {
+    margin: 0 auto;
+    width: 980px;
+    height: 200px;
+    background: #eee;
+}
+
+.wrapper-main {
+    width: 100%;
+    height: 500px;
+}
+
+.wh-blog {
+    padding-top: 76px;
+
+}
+
+.wh-blog .name {
+    height: 50px;
+    line-height: 50px;
+    font-size: 48px;
+    font-weight: bold;
+}
+
 
 
 
