@@ -22,26 +22,26 @@
     padding-top: 76px;
 }
 
-.header>.pull-left{
+.header .pull-left{
     width: 50%;
     float: left;
 }
-.header>.pull-left>h1{
+.header .pull-left h1{
     color: #fff;
     font-size: 48px;
     font-weight: bold;
 }
-.header>.pull-left>p{
+.header .pull-left p{
     color: #fff;
     font-size: 22px;
 }
-.header>.pull-right{
+.header .pull-right{
     width: 50%;
     float: right;
     text-align: right;
     margin-top: 30px;
 }
-.header>.pull-right>a{
+.header .pull-right a{
     color: #fff;
     font-size: 26px;
 }
@@ -51,19 +51,19 @@
     margin-top: 70px;
     list-style-type: none;
 }
-.listImg>.item{
+.listImg .item{
     position: relative;
     float: left;
     width: 30%;
     margin-right: 5%;
 }
-.listImg>.item:last-child{
+.listImg .item:last-child{
     margin-right: 0;
 }
-.listImg>.item>img{
+.listImg .item img{
     width: 100%;
 }
-.listImg>.item>.text{
+.listImg .item .text{
     position: absolute;
     left: 0;
     bottom: 30px;
